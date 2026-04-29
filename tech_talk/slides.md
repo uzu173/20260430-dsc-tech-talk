@@ -8,6 +8,12 @@ theme: seriph
 
 ---
 layout: image
+image: ./assets/repository.png
+backgroundSize: contain
+---
+
+---
+layout: image
 image: ./assets/uzu.jpg
 ---
 
@@ -27,9 +33,9 @@ image: ./assets/LaTeX-chan.png
 
 # この30分で$\LaTeX$ちゃん<br>と仲良くなってください！
 
-* 本を読むのが大好きな文学少女だけど，一番の得意科目は数学
+* 本を読むのが大好きな文学少女だけど，<br>一番の得意科目は数学
 * しっかり者で，先生たちからも信頼されている
-* 最近，Typstちゃんにちょっかい出されっぱなしで困っちゃう...
+* 最近，Typstちゃんに押され気味で困っちゃう...
 
 ---
 
