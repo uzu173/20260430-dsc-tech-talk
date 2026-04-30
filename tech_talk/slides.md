@@ -3,7 +3,6 @@ theme: seriph
 ---
 
 # $\LaTeX$とお友だちになって<br>WYSIWYMな大学生活を送ろう！
-
 宇津 駿介
 
 ---
