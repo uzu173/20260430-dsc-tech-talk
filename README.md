@@ -2,7 +2,8 @@
 Presentation materials from the LaTeX lightning talk held at the Okayama University DS Club
 
 岡山大学DS部で行われた，$\LaTeX$ハンズオンの講演資料です。
-30分を目安に作っています。
+~~30分を目安に作っています~~。
+50分くらいのボリュームがありました。
 
 ## 使いかた
 この資料は，Slidevで作られました。
